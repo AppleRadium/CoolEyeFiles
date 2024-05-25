@@ -1,0 +1,32 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: C:\Users\dnjoh\anaconda3\envs\COOLEYE\python\datasets
+train: C:\Users\dnjoh\anaconda3\envs\COOLEYE\python\datasets\train\images
+val: C:\Users\dnjoh\anaconda3\envs\COOLEYE\python\datasets\val\images
+test: C:\Users\dnjoh\anaconda3\envs\COOLEYE\python\datasets\test\images
+
+# Classes
+nc: 23
+names:
+   0: apple
+   1: orange
+   2: cabbage
+   3: asparagus
+   4: potato
+   5: mango
+   6: bell pepper
+   7: banana
+   8: watermelon
+   9: strawberry
+   10: pear
+   11: carrot
+   12: pomegranate
+   13: peach
+   14: cucumber
+   15: pineapple
+   16: lemon
+   17: tomato
+   18: grape bunch
+   19: zucchini
+   20: broccoli
+   21: mushroom
+   22: cantaloupe
